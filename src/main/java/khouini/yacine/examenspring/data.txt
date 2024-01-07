@@ -1,0 +1,25 @@
+worker
+{
+  "name": "yacineWork",
+  "nic": "nicS"
+}
+wasing services
+[
+  {
+    "price": 10,
+    "type": "EXTERNAL_WASHING"
+  },
+  {
+    "price": 14,
+    "type": "INTERNAL_WASHING"
+  },
+  {
+    "price": 16,
+    "type": "POLISHING"
+  }
+]
+3)
+{
+  "brand": "stringBrannnd",
+  "immatriculation": "matriiii"
+}
